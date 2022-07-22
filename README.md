@@ -1,28 +1,28 @@
-#DIO - dominando IDES - JAVA#
 
 
-INFORMAÇÕES GERAIS SOBRE JAVA 
 
-JAVA - CARACTERÍSTICAS.
-1 - TIPAGEM ESTÁTICA, 2- BYTECODE, 3- INDEPENDENTE DE PLATAFORMA, 4- BIBLIOTECA DE ROTINAS e APIs, 5 - Orientada a Objetos (OPP)
+<h1>INFORMAÇÕES GERAIS SOBRE JAVA</h1>
+
+<h4>JAVA - CARACTERÍSTICAS</h4>
+1 - TIPAGEM ESTÁTICA,<br> 2- BYTECODE,<br> 3- INDEPENDENTE DE PLATAFORMA,<br> 4- BIBLIOTECA DE ROTINAS e APIs,<br> 5 - Orientada a Objetos (OPP)<br>
 
 Linguagem de programação com orientação a objetos, fortemente tipada.Nela, existe a compilação para um código intermediário,
 o bytecode, que é interpretado e executado pela Máquina Virtual Java (JVM).
 
 
-JAVA -  UTILIZAÇÃO.
+<h4>JAVA -  UTILIZAÇÃO</h4>
 É usado para criar jogos, programas de computador, sistema operacionais,
 sistemas automotivos, automação de residências, máquinas industriais e muito mais.
 
 
-JAVA -  PONTOS POSITIVOS 
+<h4>JAVA -  PONTOS POSITIVOS</h4>
 Portabiliade - podem ser executados em todo tipo de hardware e sistema operacioal;
 Segurança - privacidade dos dados;
 Comunidade - vasta quantidade de desenvolvedores, o que pode ajudar iniciantes ou interessados na linguagem a resolver problemas;
 Simplicidade - regras de uso bem definidas. 
 
 
-EXEMPLO -  COM CONDIÇÃO 
+<h4>EXEMPLO -  COM CONDIÇÃO</h4> 
 
 public class TestaCondicional {
 	
