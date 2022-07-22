@@ -6,7 +6,7 @@
 <h4>JAVA - CARACTERÍSTICAS</h4>
 1 - TIPAGEM ESTÁTICA,<br> 2- BYTECODE,<br> 3- INDEPENDENTE DE PLATAFORMA,<br> 4- BIBLIOTECA DE ROTINAS e APIs,<br> 5 - Orientada a Objetos (OPP)<br>
 
-Linguagem de programação com orientação a objetos, fortemente tipada.Nela, existe a compilação para um código intermediário,
+<br>Linguagem de programação com orientação a objetos, fortemente tipada.Nela, existe a compilação para um código intermediário,
 o bytecode, que é interpretado e executado pela Máquina Virtual Java (JVM).
 
 
